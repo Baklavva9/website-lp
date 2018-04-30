@@ -2956,7 +2956,7 @@ font-size: 18px;
          text-align: center;
          margin-left: 32.5px;
          margin-top: 40px;
-        
+         color: #ffffff;        
      }   
      
      .login-button-main {
@@ -2964,7 +2964,8 @@ font-size: 18px;
          float: left;
          margin-left: 32.5px;
          text-align: center;
-         margin-top: 40px;    
+         margin-top: 40px; 
+         color: #ffffff; 
      }
      
      /* SIGN UP FORM */
