@@ -2999,7 +2999,7 @@ font-size: 18px;
          grid-template-columns: repeat(1, 1fr);
      
          z-index: 62;
-         margin-top: 50px;
+         margin-top: 10px;
      }
      
      .signup-user-area {
@@ -3024,7 +3024,7 @@ font-size: 18px;
      
      .signup-close-btn img {
          float: left;
-         margin-left: 300px;
+         margin-left: 320px;
      
      }
      
@@ -3120,8 +3120,8 @@ font-size: 18px;
         width: 100%;
         grid-template-columns: repeat(1, 1fr);
          
-     
         z-index: 62;
+        margin-top: -40px;
      }
      
      .login-user-area {
